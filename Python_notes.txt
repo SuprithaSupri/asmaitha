@@ -49,4 +49,3 @@ print(type(x)) #<class ‘int’>
 print(type(y)) #<class ‘str’>
 	String variables can be declared either by using single or double quotes:
 EX: 
-
